@@ -1,0 +1,9 @@
+* {
+  border: 0px solid currentColor;
+  margin: 0px;
+  padding: 0px;
+  background: transparent;
+  box-sizing: border-box;
+  box-shadow: none;
+  font-family: sans-serif;
+}
